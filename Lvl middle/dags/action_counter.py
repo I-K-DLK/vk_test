@@ -13,9 +13,10 @@ Apache Airflow в 7-00  каждого дня
 
 
 # 1. Открыть CSV файл в заданной директории
-# 2. Сгенерировать DataFrame из 5 колонок (email, CREATE, READ, UPDATE, DELETE)  
+# 2. Сгенерировать DataFrame из 5 колонок (email, create_count, read_count,
+# update_count, delete_count)  
 # - с подсчетом количества действий каждого пользователя (email)
-# 3. Сохраните DataFrame в csv-файл, первая строка - название колонок.
+# 3. Сохраните DataFrame в csv-файл, первая строка - название колонок..
 
 
 # Импорт библиотек и модулей
